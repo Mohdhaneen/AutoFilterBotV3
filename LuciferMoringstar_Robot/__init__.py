@@ -6,7 +6,7 @@ from .Utils import (
    Media
 )
 from .Channel import (
-   RATING,
+
    GENRES
 )
 
@@ -22,20 +22,21 @@ Bot Owner Only
 /unban_user click unban_user more info
 /banned_users Banned User Details
 /total How Many Files Added In Database
-/logger  Get Logs
+/logger  Get Log
 /delete Delete File From Database
 
 """
 
 ABOUT = """
-➥ Name :  MILLIE MOBBY BORWN
+🔶 Name :  MILLIE MOBBY BORWN
     
-➥ Creator : [MOHD HANEEN](
+🔶 Creator : [MOHD HANEEN](
 @MOHDHANEEN)
 
-➥ Language : Python3
+🔶 Language : Python3
 
-➥ Library : Pyrogram Asyncio 1.13.0
+🔶 Library : Pyrogram Asyncio 1.13.0
 
-➥  MAIN CHANNEL: [Click Me](https://t.me/cinemacenterofficial)
+🔶  MAIN CHANNEL: [Click Me](https://t.me/cinemacenterofficial)
 """
+ADD ME TO YOUR GROUP = """https://t.me/Nsdragon_Bot?startgroup=true?startgroup=true?startgroup=true """
