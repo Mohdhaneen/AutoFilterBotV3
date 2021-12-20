@@ -37,6 +37,6 @@ ABOUT = """
 
 🔶 Library : Pyrogram Asyncio 1.13.0
 
-🔶  MAIN CHANNEL: [Click Me](https://t.me/cinemacenterofficial)
+🔶  MAIN CHANNEL: @CINEMACENTEROFFICIAL
 """
-ADD ME TO YOUR GROUP = """https://t.me/Nsdragon_Bot?startgroup=true?startgroup=true?startgroup=true """
+
