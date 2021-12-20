@@ -28,7 +28,7 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  MILLIE MOBBY BORWN
     
 ➥ Creator : [MOHD HANEEN](
 @MOHDHANEEN)
